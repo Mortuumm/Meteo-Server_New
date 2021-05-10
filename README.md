@@ -14,10 +14,15 @@ MeteoServer
   **Скриншоты**: 
   
 **Поле ввода названия города( клиента).**
+
 ![](https://github.com/Mortuumm/Meteo-Server_New/blob/main/CdQSlmYotQ0.jpg)
+
 **Ввод температуры города.**
+
 ![](https://github.com/Mortuumm/Meteo-Server_New/blob/main/bjRb0VWXi38.jpg)
+
 **Клиент и сервер.**
+
 ![](https://github.com/Mortuumm/Meteo-Server_New/blob/main/gHVy8wnLNXU.jpg)
 
 ## Зависимости
